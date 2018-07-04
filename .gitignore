@@ -1,4 +1,3 @@
-
-.gitignore
 .idea/
-test_videos_out/
+p4lib/__pycache__/
+

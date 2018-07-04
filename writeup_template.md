@@ -149,3 +149,5 @@ I might improve it if I were going to pursue this project further.
 have a robust lane detection. Using propor filter technique according to various weather 
 conditions will be a good start.
 
+2. Multiple lane detection. This could be due to the road conditions.
+
